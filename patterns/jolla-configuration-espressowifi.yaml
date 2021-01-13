@@ -1,0 +1,6 @@
+Description: Pattern with packages for espressowifi configurations
+Name: jolla-configuration-espressowifi
+Requires:
+- patterns-sailfish-device-configuration-espressowifi
+
+Summary: Jolla Configuration espressowifi
